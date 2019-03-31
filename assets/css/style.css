@@ -66,7 +66,7 @@ h1{
     width: 898px;
     background-color: #ffffff;
     margin: 0 auto;
-    padding: 20px 30px 20px 30px;
+    padding: 10px 30px 20px 30px;
     border: 1px solid #dddddd;
     position: relative;
     overflow: auto;
@@ -84,8 +84,8 @@ h1{
     float: left;
     margin-right: 10px;
     margin-bottom: 10px;
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
 }
 
 h2{
@@ -160,5 +160,5 @@ footer{
     text-align: center;
     font-size: 14px;
     color: #ffffff;
-    margin-top:10px;
+    margin-top:30px;
 }
