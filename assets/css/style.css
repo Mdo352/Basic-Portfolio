@@ -6,7 +6,7 @@ body{
     line-height: 150%;
     color: #777777;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-    background-image: url(../images/grey_background.png)
+    background-image: url(../images/folk-pattern.png);
 }
 
 a{
@@ -47,7 +47,7 @@ h1{
     height: 100%;
     width: 340px;
     font-size: 30px;
-    padding: 25px;
+    padding: 20px;
     float: left;
     color: white;
 }
@@ -57,7 +57,7 @@ h1{
     float: right;
     text-decoration: none;
     font-size: 20px;
-    padding-top: 30px;
+    padding-top: 25px;
     margin-right: 0;
     
 }
@@ -148,10 +148,17 @@ button{
     display: block;
   }
 
+.sticky {
+    min-height: calc(100vh - 50px);
+}
+
 footer{
     width: 100%;
-    background-color: /*#666666*/pink;
+    background-color: #666666;
     height: 50px;
     border-top:5px solid #4aaaa5;
-    margin-top: 50px;
+    text-align: center;
+    font-size: 14px;
+    color: #ffffff;
+    margin-top:10px;
 }
