@@ -10,4 +10,5 @@ This project was
 - Materialize.css
 ## Team
 | @BrendaTH | @md0352  | @beth | [Ryan Creveling](https://github.com/rcreveling) |
+|           |          |       | @rcreveling                                     |
 |-----------|:--------:|:-----:|-------------------------------------------------|
