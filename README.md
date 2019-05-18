@@ -9,5 +9,5 @@ This project was
 - Canvas.js
 - Materialize.css
 ## Team
-| @BrendaTH | @md0352  | @beth | rcraveling |
-|-----------|:--------:|:-----:|------------|
+| @BrendaTH | @md0352  | @beth | [Ryan Creveling](https://github.com/rcreveling) |
+|-----------|:--------:|:-----:|-------------------------------------------------|
