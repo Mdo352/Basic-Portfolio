@@ -2,8 +2,11 @@
 
 # 2020 Vision
 This website is a resource for researching about the upcoming 2020 election.
+
 A list of all the U.S Senators is by party. Click on the more button next to each senetors name to view their picture and view data regarding their campaign finances.
-NY Times articles relevent to the election are also displayed at the top of the page. 
+
+NY Times articles relevent to the election are also displayed at the top of the page.
+
 The deployed version of the application is here: https://rcreveling.github.io/project-one/
 ## Built With
 - NY Times API
